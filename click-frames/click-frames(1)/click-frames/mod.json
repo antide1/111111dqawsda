@@ -1,0 +1,11 @@
+{
+	"geode": "4.0.0",
+	"gd": {
+		"win": "*"
+	},
+	"id": "yourname.click-frames",
+	"name": "Click Frames",
+	"version": "v1.0.0",
+	"developer": "yourname",
+	"description": "Показывает, сколько физических кадров (тиков) у вас есть, чтобы нажать на орб."
+}
